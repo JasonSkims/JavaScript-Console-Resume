@@ -29,7 +29,7 @@ function displayPosistion(name, title, position) {
 };
 displayPosistion('Company: Deshazo Crane Company', 'Title: Single Girder Assembler', 'Position: Welder');
 console.log('')
-displayPosistion('Company: Camping World', 'Title: Sevice Writer/Sales', 'Posistion: Took care of customers every need in ensuring they get their RV back for the payment of services rendered.');
+displayPosistion('Company: Camping World', 'Title: Sevice Writer/Sales', 'Posistion: Took care of customers every need and ensuring they get their RV back for the payment of services rendered.');
 console.log('')
 displayPosistion('Company: Swift Transportation', 'Title: OTR Truck Driver', 'Posistion: Delivered materials across all 48 states.')
 console.log('')
